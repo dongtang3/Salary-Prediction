@@ -1,6 +1,0 @@
-matplotlib==3.4.3
-plotly==5.1.0
-!pip install scikit-learn
-
-
-
