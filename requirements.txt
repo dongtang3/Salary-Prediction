@@ -1,8 +1,7 @@
-matplotlib==3.4.3
-plotly==5.1.0
+matplotlib
+plotly
 scikit-learn
-streamlit
+gradio
 numpy
 pandas
-
-
+prometheus-client
